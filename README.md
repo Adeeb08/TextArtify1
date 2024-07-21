@@ -66,10 +66,3 @@ To run this project locally, follow the steps below.
     - The application will provide a local URL (e.g., `http://127.0.0.1:7860`) that you can open in your web browser.
     - Enter a text prompt and click "Submit" to generate an image.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License.
