@@ -1,11 +1,10 @@
 # TextArtify1
-# TextArtify
 
-TextArtify is a simple web application that uses the Hugging Face API to generate images from text prompts. It provides an easy-to-use interface powered by Gradio.
+TextArtify1 is a simple web application that uses the Hugging Face API to generate images from text prompts. It provides an easy-to-use interface powered by Gradio.
 
 ## Project Description
 
-TextArtify allows users to input a textual description and receive a generated image based on that description. This project utilizes the `sd-community/sdxl-flash` model from Hugging Face's API to perform the image generation.
+TextArtify1 allows users to input a textual description and receive a generated image based on that description. This project utilizes the `sd-community/sdxl-flash` model from Hugging Face's API to perform the image generation.
 
 ## Getting Started
 
@@ -20,8 +19,8 @@ To run this project locally, follow the steps below.
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/Adeeb08/TextArtify.git
-    cd TextArtify
+    git clone https://github.com/Adeeb08/TextArtify1.git
+    cd TextArtify1
     ```
 
 2. **Create a Virtual Environment** (optional but recommended):
