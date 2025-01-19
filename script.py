@@ -1,7 +1,7 @@
 
 #### `script.py`
-This is your main Python script.
-```python
+#This is your main Python script.
+#```python
 import gradio as gr
 import io
 import requests
