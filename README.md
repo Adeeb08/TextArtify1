@@ -1,3 +1,5 @@
+https://github.com/TextArtify2
+
 # TextArtify1
 
 TextArtify1 is a simple web application that uses the Hugging Face API to generate images from text prompts. It provides an easy-to-use interface powered by Gradio.
