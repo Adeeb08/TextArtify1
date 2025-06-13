@@ -1,4 +1,4 @@
-https://github.com/TextArtify2
+https://github.com/Adeeb08/TextArtify2
 
 # TextArtify1
 
